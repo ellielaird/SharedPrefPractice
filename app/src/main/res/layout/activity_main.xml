@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Name"
+        android:text="name"
         tools:layout_editor_absoluteX="109dp"
         tools:layout_editor_absoluteY="167dp" />
 
@@ -18,7 +18,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Age"
+        android:text="age"
         tools:layout_editor_absoluteX="139dp"
         tools:layout_editor_absoluteY="282dp"
         android:layout_below="@+id/textView"/>
@@ -27,7 +27,7 @@
         android:id="@+id/checkBox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Enrolled"
+        android:text="enrolled"
         tools:layout_editor_absoluteX="94dp"
         tools:layout_editor_absoluteY="462dp"
         android:layout_below="@+id/textView2"/>
@@ -36,7 +36,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SAVE"
+        android:text="save"
         android:layout_below="@id/checkBox"
         android:onClick="save"/>
 
